@@ -1,4 +1,4 @@
-clsfrom flask import Flask, render_template, session, redirect, url_for, session
+from flask import Flask, render_template, session, redirect, url_for, session
 from flask_wtf import FlaskForm
 import pickle
 import joblib
